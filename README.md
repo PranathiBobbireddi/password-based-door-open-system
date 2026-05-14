@@ -40,6 +40,8 @@ LCD displays “Wrong Password”.
 
 Block Diagram:
 
+Circuit Implementation:
+<!-- Uploading "Screenshot 2026-05-14 130321.png"... -->
 
 Circuit Connections:
 LCD Connections
