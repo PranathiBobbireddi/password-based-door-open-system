@@ -13,18 +13,18 @@ Automatic door open and close operation
 Secure electronic locking system
 
 Components Used:
-LPC2148 Development Board
-LCD Module (16x2)
-4x3 Keypad
-DC Motor
-L293D Motor Driver
-Power Supply
-Connecting Wires
+LPC2148 Development Board,
+LCD Module (16x2),
+4x3 Keypad,
+DC Motor,
+L293D Motor Driver,
+Power Supply,
+Connecting Wires.
 
 Software Used:
-Keil uVision IDE
-Embedded C Programming
-Proteus (optional for simulation)
+Keil uVision IDE,
+Embedded C Programming,
+Proteus (optional for simulation).
 
 Working Principle:
 User enters password using keypad.
