@@ -39,6 +39,7 @@ If password is incorrect:
 LCD displays “Wrong Password”.
 
 Block Diagram:
+<!-- Uploading "Screenshot 2026-05-14 133716.png"... -->
 
 Circuit Implementation:
 <!-- Uploading "Screenshot 2026-05-14 130321.png"... -->
